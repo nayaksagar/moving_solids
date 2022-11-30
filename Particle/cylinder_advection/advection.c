@@ -10,7 +10,7 @@ using an [embedded boundary](/src/embed.h). */
 #include "../myembed.h"
 #include "../mycentered.h"
 #include "../myembed-particle.h"
-#include "view.h"
+//#include "view.h"
 
 /**
 ## Reference solution */
